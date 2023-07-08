@@ -1,2 +1,2 @@
 # BookingTicket
-###A ticket booking application using Golang
+### A ticket booking application using Golang
